@@ -14,7 +14,7 @@ Click on Generate a personal access token
 
 Then click on Generate token
 
-![alt github.png](https://github.com/alexadam/repo-backup/blob/master/github.png?raw=true)
+![alt github.png](https://github.com/alexadam/repo-backup/blob/master/screenshots/github.png?raw=true)
 
 ### Run the backup script
 
@@ -57,7 +57,7 @@ On gitlab.com, go to your profile -> Settings -> Access Tokens and create a new 
 
 Then click on Create personal access token
 
-![alt gitlab.png](https://github.com/alexadam/repo-backup/blob/master/gitlab.png?raw=true)
+![alt gitlab.png](https://github.com/alexadam/repo-backup/blob/master/screenshots/gitlab.png?raw=true)
 
 ### Run the backup script
 
