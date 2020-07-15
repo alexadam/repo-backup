@@ -1,5 +1,6 @@
 # repo-backup
 
+Backup all Github & Gitlab repositories as .zip files 
 
 ## Github Backup
 
